@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rothindro
-- 👀 I’m interested in Java, Android Development ,Data Analysis and Bioinformatics
-- 🌱 I’m currently learning Biotechnology Engineering
+- 👀 I’m interested in Data Analysis, Data Science and Bioinformatics
+- 🌱 I’m currently learning EDA using Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 Linkedin profile: https://www.linkedin.com/in/rathindra-narayan-hait-a0ba9015a/
