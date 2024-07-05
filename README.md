@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rothindro
+- 👋 Hi, I’m @Rathindra
 - 👀 I’m interested in Data Analysis, Data Science and Bioinformatics
 - 🌱 I’m currently learning EDA using Python
 - 💞️ I’m looking to collaborate on ...
