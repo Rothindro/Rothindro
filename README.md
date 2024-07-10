@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rathindra
 - 👀 I’m interested in Data Analysis, Data Science and Bioinformatics
-- 🌱 I’m currently learning EDA using Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning text analysis using SpaCy
+<!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me 
 Linkedin profile: https://www.linkedin.com/in/rathindra-narayan-hait-a0ba9015a/
 
