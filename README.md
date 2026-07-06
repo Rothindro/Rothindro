@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rathindra
-- 👀 I’m interested in Data Analysis, Data Science and Bioinformatics
-- 🌱 I’m currently learning text analysis using SpaCy
+- 👀 I’m actively looking for opportinities in Data Analytics, Advanced Analytics, Data Science and AI/ML roles
 <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me 
 Linkedin profile: https://www.linkedin.com/in/rathindra-narayan-hait-a0ba9015a/
